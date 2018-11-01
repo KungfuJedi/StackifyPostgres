@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StackifyPostgres": {
+      "commandName": "Project",
+      "commandLineArgs": "/EnableStackify"
+    }
+  }
+}
